@@ -1,6 +1,4 @@
 # Streamlit app
-
-import pickle
 from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
 from sklearn.metrics import accuracy_score,confusion_matrix,precision_score
 from sklearn.feature_extraction.text import TfidfVectorizer
