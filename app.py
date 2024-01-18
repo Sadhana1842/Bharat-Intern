@@ -1,5 +1,5 @@
 # Streamlit app
-import re
+
 import pickle
 from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
 from sklearn.metrics import accuracy_score,confusion_matrix,precision_score
