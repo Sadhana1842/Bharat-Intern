@@ -1,10 +1,5 @@
 re
 pickle
-MultinomialNB
-accuracy_score
-confusion_matrix
-precision_score
-TfidfVectorizer
-train_test_split
-pandas
-matplotlib.pyplot
+streamlit
+nltk
+sklearn
