@@ -1,5 +1,4 @@
 # Streamlit app
-%%writefile app2.py
 import re
 import pickle
 from sklearn.naive_bayes import GaussianNB,MultinomialNB,BernoulliNB
